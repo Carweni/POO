@@ -1,5 +1,5 @@
 # POO
-Repositório de códigos feitos como exercícios e exemplos, em Java, durante as aulas de Programação Orientada a Objetos.
+Repositório de códigos em Java feitos como exercícios e exemplos durante as aulas da disciplina de Programação Orientada a Objetos.
 
 ## Link para instalação do Kit de Desenvolvimento Java (JDK):
 
